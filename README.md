@@ -17,9 +17,9 @@ Copie o comando abaixo e cole no seu terminal.
 2. Como compilar:
 
  Abra o terminal na sua pasta com o código e escreva:
-	
+
 	cd HEAP
-      gcc TR5_537725.c main_heap.c -o heap
+	gcc TR5_537725.c main_heap.c -o heap
     
 3. Como executar:
 
