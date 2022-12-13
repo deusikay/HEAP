@@ -20,7 +20,7 @@ Copie o comando abaixo e cole no seu terminal.
  Abra o terminal na sua pasta com o código e escreva:
 	
       cd HEAP
-      gcc TR3_537725.c -o heap
+      gcc TR5_537725.c -o heap
     
 3. Como executar:
 
